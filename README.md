@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
