@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0088-merge-sorted-array) |
+| [2574-left-and-right-sum-differences](https://github.com/vaishnaviy507-gif/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/vaishnaviy507-gif/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
