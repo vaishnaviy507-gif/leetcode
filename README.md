@@ -22,6 +22,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
