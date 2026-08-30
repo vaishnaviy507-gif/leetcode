@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2574-left-and-right-sum-differences](https://github.com/vaishnaviy507-gif/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/vaishnaviy507-gif/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnaviy507-gif/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
